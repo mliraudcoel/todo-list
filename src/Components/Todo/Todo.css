@@ -1,0 +1,19 @@
+.work{
+  background-color: #c6f7df;
+}
+
+.family{
+  background-color:#fcf995;
+}
+
+.work, .family{
+  width:50%;
+  margin-top:30px;
+  padding:10px;
+  border-radius:30px;
+}
+
+.container_title{
+  display:flex;
+  justify-content: space-between;
+}
